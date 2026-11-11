@@ -1,0 +1,21 @@
+Order ID,Order Date,Region,Product,Category,Quantity,Unit Price,Unit Cost,Sales,Profit
+ORD001,01/01/2025,London,Laptop,Electronics,2,500,350,1000,300
+ORD002,03/01/2025,Manchester,Phone,Electronics,3,300,200,900,300
+ORD003,05/01/2025,Birmingham,Desk,Furniture,2,150,90,300,120
+ORD004,08/01/2025,London,Chair,Furniture,5,80,45,400,175
+ORD005,10/01/2025,Leeds,Headphones,Electronics,4,60,30,240,120
+ORD006,12/01/2025,Bristol,Printer,Electronics,2,120,75,240,90
+ORD007,15/01/2025,London,Desk,Furniture,3,150,90,450,180
+ORD008,18/01/2025,Manchester,Tablet,Electronics,2,250,160,500,180
+ORD009,20/01/2025,Leeds,Chair,Furniture,4,80,45,320,140
+ORD010,22/01/2025,Birmingham,Laptop,Electronics,1,500,350,500,150
+ORD011,02/02/2025,Bristol,Phone,Electronics,5,300,200,1500,500
+ORD012,04/02/2025,London,Printer,Electronics,3,120,75,360,135
+ORD013,07/02/2025,Leeds,Desk,Furniture,2,150,90,300,120
+ORD014,10/02/2025,Manchester,Headphones,Electronics,6,60,30,360,180
+ORD015,13/02/2025,Birmingham,Chair,Furniture,3,80,45,240,105
+ORD016,16/02/2025,London,Tablet,Electronics,4,250,160,1000,360
+ORD017,19/02/2025,Bristol,Laptop,Electronics,2,500,350,1000,300
+ORD018,22/02/2025,Manchester,Desk,Furniture,1,150,90,150,60
+ORD019,25/02/2025,Leeds,Phone,Electronics,2,300,200,600,200
+ORD020,27/02/2025,Birmingham,Printer,Electronics,4,120,75,480,180
