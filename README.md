@@ -28,4 +28,4 @@ Dates in the CSV were in DD/MM/YYYY format. I imported them as text, then conver
 2. Run the `CREATE TABLE` statement in `setup.sql`.
 3. Import the CSV into the `sales` table.
 4. Run the `ALTER TABLE` and `UPDATE` statements in `setup.sql` to create the clean date column.
-5. Run the
+5. Run the  queries in `analysis_queries.sql`.
